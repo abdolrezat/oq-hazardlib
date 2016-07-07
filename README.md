@@ -5,7 +5,7 @@
 The OpenQuake Hazard Library is open-source software for performing seismic hazard analysis.
 
 ## About
-
+THIS IS JUST FOR TEST
 hazardlib includes modules for modeling seismic sources (point, area and fault), earthquake ruptures, temporal (e.g. Poissonian) and magnitude occurrence models (e.g. Gutenberg-Richter), magnitude/area scaling relationships, ground motion and intensity prediction equations (i.e. GMPEs and IPEs).
 Eventually it will offer a number of calculators for hazard curves, stochastic event sets, ground motion fields and disaggregation histograms.
 
